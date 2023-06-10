@@ -5,7 +5,6 @@ import toast from 'react-hot-toast';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../Context/AuthProvider/AuthProvider';
 
-
 const Login = () => {
     const { providerLogin, signIn, errorMsgToast } = useContext(AuthContext);
     const googleProvider = new GoogleAuthProvider();
