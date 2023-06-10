@@ -31,7 +31,7 @@ const Header = () => {
             <Toaster
                 position="top-center"
                 reverseOrder={false}
-                gutter={8}
+                gutter={8} 
                 containerClassName=""
                 containerStyle={{}}
                 toastOptions={{
