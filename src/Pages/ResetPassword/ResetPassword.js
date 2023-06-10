@@ -1,6 +1,6 @@
 import { Button, Label, TextInput } from 'flowbite-react';
 import React, { useContext } from 'react';
-import toast from 'react-hot-toast';
+import toast from 'react-hot-toast'; 
 import { AuthContext } from '../../Context/AuthProvider/AuthProvider';
 
 
