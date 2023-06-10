@@ -28,7 +28,7 @@ const Header = () => {
 
     return (
         <div className="container mx-auto my-2">
-            <Toaster
+            <Toaster 
                 position="top-center"
                 reverseOrder={false}
                 gutter={8} 
