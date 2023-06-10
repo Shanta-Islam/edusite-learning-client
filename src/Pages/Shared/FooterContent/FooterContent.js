@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faGithub, faInstagram, faTwitch, faTwitter } from '@fortawesome/free-brands-svg-icons';
-import { Footer } from 'flowbite-react';
+import { Footer } from 'flowbite-react';  
 import React from 'react';
 import { Link } from 'react-router-dom';
 
